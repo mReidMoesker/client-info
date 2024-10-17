@@ -12,3 +12,6 @@ Created using
 - HTML
 - CSS
 - JS
+
+Access site at:
+<a href="https://mreidmoesker.github.io/client-info/">https://mreidmoesker.github.io/client-info/</a>
